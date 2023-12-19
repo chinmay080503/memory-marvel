@@ -1,0 +1,31 @@
+:root{
+    --font-family-primary: 'Atkinson Hyperlegible', sans-serif;
+    --font-weight-light: 400;
+    --font-weight-bold: 700;
+    --color-light: #FCFCFC;
+    --color-dark: #152938;
+    --color-orange: #FDA214;
+    --color-light-dark: #304859;
+    --color-very-light:#DFE7EC;
+    --color-gray: #BCCED9;
+    --color-light-blue:#7191A5;
+    --color-orange-hover:#FFB84A;
+    --color-gray-hover: #6395B8;
+    --border-radius--primary: 10px;
+    --padding-primary: 24px;
+    --margin-primary: 24px;
+    --font-size-primary: 15px;
+    --padding-lg-screen: 56px;
+    --font-size-lg: 20px;
+
+
+}
+
+
+body{
+    background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Big+Shoulders+Display:wght@700&family=Open+Sans:wght@400;700&display=swap');
